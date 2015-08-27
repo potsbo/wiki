@@ -3,7 +3,8 @@ Git
 
 Repositories
 ---
-* bitbucket (main)
+* Bitbucket (main)
+* Juice (sub)
 
 Recommended Tools
 ---
